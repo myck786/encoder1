@@ -1,13 +1,13 @@
 #Don't be a thief by stealing other's Hardwork, it took time and effort to make this repo.
 #Respect my work by not making any changes here.
 
-START_TEXT = "Send me any file to begin."
+START_TEXT = "Hey i am a most powerful video encoder bot working for only A2ztoons India, Send me any file to begin."
 
 FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
 CHANNEL_LINK = "https://t.me/a2ztoons"
 
-SUPPORT_LINK = "https://t.me/a2ztoons_admin
+SUPPORT_LINK = "https://t.me/a2ztoons_admin"
 
 info_text = "This bot is developed by @a2ztoons_admin\n\nWritten in python library TELETHON.\n\nBot by : @a2ztoonsindia\nSupport : @a2ztoons_admin\n\nV1.4"   
 
