@@ -7,7 +7,7 @@ FORCE_SUB_TEXT = "In order to use this bot, you've to join my parent channel."
 
 CHANNEL_LINK = "https://t.me/a2ztoons"
 
-SUPPORT_LINK = "https://t.me/a2ztoonsindia
+SUPPORT_LINK = "https://t.me/a2ztoons_admin
 
 info_text = "This bot is developed by @a2ztoons_admin\n\nWritten in python library TELETHON.\n\nBot by : @a2ztoonsindia\nSupport : @a2ztoons_admin\n\nV1.4"   
 
