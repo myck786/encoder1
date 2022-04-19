@@ -6,16 +6,16 @@
 </h1>
 
 
-<p align="left"><a href="https://github.com/vasusen-code/videoconvertor"><img src="https://github-readme-stats.vercel.app/api/pin?username=vasusen-code&show_icons=true&theme=dracula&hide_border=true&repo=VideoConvertor"></a></p>
+<p align="left"><a href="https://github.com/Sharfatali/ps-enoder><img src="https://github-readme-stats.vercel.app/api/pin?username=vasusen-code&show_icons=true&theme=dracula&hide_border=true&repo=VideoConvertor"></a></p>
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/Sharfatali/vid-encoder"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Sharfatali/ps-enoder"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/Sharfatali/vid-encoder"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Sharfatali/ps-enoder"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Telegran Channel` - DroneBots
