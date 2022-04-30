@@ -6,20 +6,20 @@
 </h1>
 
 
-<p align="left"><a href="https://github.com/Sharfatali/my-encoder><img src="https://github-readme-stats.vercel.app/api/pin?username=vasusen-code&show_icons=true&theme=dracula&hide_border=true&repo=VideoConvertor"></a></p>
+<p align="left"><a href="https://github.com/Sharfatali/encoder1><img src="https://github-readme-stats.vercel.app/api/pin?username=vasusen-code&show_icons=true&theme=dracula&hide_border=true&repo=VideoConvertor"></a></p>
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/Sharfatali/ps-enoder"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Sharfatali/encoder1"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/Sharfatali/my-encoder"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Sharfatali/encoder1"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Telegran Channel` - DroneBots
-<p><a href="https://t.me/DroneBots"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
+<p><a href="https://t.me/a2ztoons"> <img src="https://img.shields.io/badge/Telegram-Join%20Channel-gold?style=for-the-badge&logo=telegram" width="220""/></a></p>
 
 # Main branch
 Main branch is to deploy a bot for your `personal` use only. Deploy from `public` branch if you need bot for your channel. 
