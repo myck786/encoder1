@@ -89,7 +89,7 @@ async def encode(event, msg, scale=0):
     progress = f"progress-{FT}.txt"
     cmd = ''
     if scale == 240:
-        cmd = f'ffmpeg -hide_banner -loglevel quiet -progress {progress} -i """{name}""" -map 0:v -map 0:a -c:v libx265 -preset ultrafast -s 426x240 -crf 18 -c:a aac -c:s copy """{out}""" -y'
+        cmd = f'ffmpeg -hide_banner -loglevel quiet -progress {progress} -i """{name}""" -map 0:v -map 0:a -c:v libx265 -vf format=yuv420p10le -preset ultrafast -c:a aac -c:s copy """{out}""" -y'
     elif scale == 360:
         cmd = f'ffmpeg -hide_banner -loglevel quiet -progress {progress} -i """{name}""" -map 0:v -map 0:a -c:v libx265 -preset ultrafast -s 640x360 -crf 20 -c:a aac -c:s copy """{out}""" -y'
     elif scale == 480:
