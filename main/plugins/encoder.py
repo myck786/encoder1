@@ -89,7 +89,7 @@ async def encode(event, msg, scale=0):
     progress = f"progress-{FT}.txt"
     cmd = ''
     if scale == 240:
-        cmd = f'ffmpeg -hide_banner -loglevel quiet -progress {progress} -i """{name}""" -map 0:v -map 0:a -c:v libx265 -vf format=yuv420p10le -preset ultrafast -c:a aac -c:s copy """{out}""" -y'
+        cmd = f'ffmpeg -hide_banner -loglevel quiet -progress {progress} -i """{name}""" -map 0:v -map 0:m:language:hin -map 0:a -disposition:a:0 default -metadata:s:a:0 title="Encoded BY [cartoonkids786]" -metadata:s:a:1 title="Encoded BY [cartoonkids786]" -metadata:s:a:2 title="Encoded BY [cartoonkids786]" -metadata:s:a:3 title="Encoded BY [cartoonkids786]" -metadata:s:a:4 title="Encoded BY [cartoonkids786]" -metadata:s:a:5 title="Encoded BY [cartoonkids786]" -metadata:s:a:6 title="Encoded BY [cartoonkids786]" -metadata:s:a:7 title="Encoded BY [cartoonkids786]" -metadata:s:a:8 title="Encoded BY [cartoonkids786]" -metadata:s:a:9 title="Encoded BY [cartoonkids786]" -metadata title="Encoded BY [cartoonkids786]" -c copy """{out}""" -y'
     elif scale == 360:
         cmd = f'ffmpeg -hide_banner -loglevel quiet -progress {progress} -i """{name}""" -map 0:v -map 0:a -c:v libx265 -preset ultrafast -s 640x360 -crf 20 -c:a aac -c:s copy """{out}""" -y'
     elif scale == 480:
